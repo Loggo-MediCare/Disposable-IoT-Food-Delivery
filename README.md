@@ -24,3 +24,4 @@
 - [完整專案設計與討論紀錄（2026-10-18 至 2026-10-19）](docs/PROJECT_DESIGN_RECORD.md)
 - [詳細討論會議紀錄（2026-10-18）](docs/MEETING_MINUTES_DETAILED_2026-10-18.md)
 - [BOM 與成本模型](docs/BOM_AND_COST_MODEL.md)
+- [方案 R：遙控車式 FPV 架構（第 0 階段原型）](docs/PLAN_R_RC_FPV_PROTOTYPE.md)
